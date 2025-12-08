@@ -39,3 +39,22 @@
 :computer: 프로그램 화면 및 소개
 ---
 
+#### 회원가입, 로그인 화면
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2f664665-67e4-4c2c-8b9e-3b19fd698a01" width="800" >
+  <img src ="https://github.com/user-attachments/assets/eb8d9b6e-3554-46cd-8094-56d1a8a874ee"width="200" height="365" >
+</p>
+
+* 맨 처음 보이는 회원 가입과 로그인 화면.
+    * 처음 이용하는 유저는 회원 가입을 통해 계정을 만들고 로그인을 통해 서비스를 이용할 수 있다.
+
+#### 메인화면
+<img src ="https://github.com/user-attachments/assets/39bd070e-0b21-45b3-ad64-8e3351739e16">
+
+* 메인 화면
+    * 캘린더형식의 UI로 일정을 한 눈에 확인하고,일정 목록 팝업을 통해 일정 확인, 추가, 삭제 및 수정이 가능하다.
+
+<img src ="https://github.com/user-attachments/assets/ffb912df-b40b-4327-9e37-2aa401966ed4">
+
+* 일정 추가 & 작성 예시
+
